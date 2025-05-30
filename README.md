@@ -14,4 +14,4 @@ Currently in the **theoretical learning phase**, focusing on mastering:
 - Sensor model drafts based on qubit measurement strategies
 
 💬 **Note:**  
-The simulation code will begin development after relative concept mastery is achieved, expected by **June 1**. This ensures depth, rigor, and clarity in the models created.
+The simulation code will begin development after relative concept mastery is achieved, expected by **July 1**. This ensures depth, rigor, and clarity in the models created.
