@@ -4,7 +4,7 @@ This repository will contain simulations and models related to quantum entanglem
 
 🚧 **Status:**  
 Currently in the **theoretical learning phase**, focusing on mastering:
-- Quantum mechanics foundations (via MIT 8.04)
+- Quantum mechanics foundations (via MIT 8.04, 8.05 and 8.06)
 - Entanglement theory (via Susskind's Stanford lectures)
 - Mathematical groundwork from Shankar, J.J Sakurai & Gasiorowicz
 
