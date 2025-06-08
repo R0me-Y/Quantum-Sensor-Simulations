@@ -8,10 +8,14 @@ Currently in the **theoretical learning phase**, focusing on mastering:
 - Entanglement theory (via Susskind's Stanford lectures)
 - Mathematical groundwork from Shankar, J.J Sakurai & Gasiorowicz
 
-🧠 **Upcoming:**
-- Simulation of entangled two-particle systems (Bell states)
-- Measurement outcomes and CHSH inequality experiments
-- Sensor model drafts based on qubit measurement strategies
+📈 **Upcoming Work (by July 1):**
+- Entangled two-qubit simulations (Bell states and CHSH inequality)
+- Measurement outcome visualizations & quantum correlations
+- Draft models of qubit-based sensor architectures for space environments
+- Literature review: *Quantum Sensors — Applications and Challenges in Space*
+
+🧠 **Vision:**  
+To build open, pedagogical quantum sensing simulations for use in quantum research and aerospace technology.
 
 💬 **Note:**  
-The simulation code will begin development after relative concept mastery is achieved, expected by **July 1**. This ensures depth, rigor, and clarity in the models created.
+The simulation code will begin development after relative concept mastery is achieved, expected by **July 1**.
