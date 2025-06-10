@@ -1,6 +1,6 @@
-# Quantum Sensor Simulation
+# Quantum Sensing Simulations
 
-This repository will contain simulations and models related to quantum entanglement and sensing systems — especially with potential satellite and aerospace applications.
+This repository will contain simulations and models related to quantum entanglement and sensing systems — especially with potential Aeronautical and Astronautical applications.
 
 🚧 **Status:**  
 Currently in the **theoretical learning phase**, focusing on mastering:
